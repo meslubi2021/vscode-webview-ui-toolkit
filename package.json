@@ -47,7 +47,7 @@
 		"@storybook/addon-actions": "^6.4.0-beta.4",
 		"@storybook/addon-essentials": "^6.4.0-beta.4",
 		"@storybook/addon-links": "^6.4.0-beta.4",
-		"@storybook/html": "^6.4.0-beta.4",
+		"@storybook/html": "^8.1.10",
 		"@storybook/theming": "^6.4.0-beta.4",
 		"@types/jest": "^26.0.20",
 		"@vscode/codicons": "^0.0.22",
